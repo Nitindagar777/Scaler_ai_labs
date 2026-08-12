@@ -1,0 +1,1185 @@
+{
+  "total_entities": 195,
+  "by_type": {
+    "COMPANY": 64,
+    "REGISTRATION_NUMBER": 4,
+    "ADDRESS": 14,
+    "PHONE": 21,
+    "PERSON_NAME": 51,
+    "EMAIL": 26,
+    "WEBSITE": 11,
+    "DIN": 4
+  },
+  "entities": [
+    {
+      "original": "KSH INTERNATIONAL LIMITED",
+      "replacement": "ABC INDUSTRIES LIMITED",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "U28129PN1979PLC141032",
+      "replacement": "U29110MH1985PLC198765",
+      "type": "REGISTRATION_NUMBER",
+      "method": "dictionary"
+    },
+    {
+      "original": "Bhandary Metal Extrusion Private Limited",
+      "replacement": "Sharma Metal Works Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "KSH International Private Limited",
+      "replacement": "ABC Industries Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "KSH International Limited",
+      "replacement": "ABC Industries Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",
+      "replacement": "45/A, 45/B and 45/C, Village Wagholi, Haveli Taluka, Pune – 412 207, Maharashtra, India",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",
+      "replacement": "502, Tower 5, Phoenix Business Hub, Off Hinjewadi Road, Wakad, Pune – 411 057, Maharashtra, India",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "+ 91 20 4505 3237",
+      "replacement": "+ 91 20 6783 1245",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Sarthak Malvadkar",
+      "replacement": "Pranav Deshpande",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "cs.connect@kshinternational.com",
+      "replacement": "cs.info@abcindustries.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.kshinternational.com",
+      "replacement": "www.abcindustries.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "CARE Analytics and Advisory Private Limited",
+      "replacement": "Market Research Analytics Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "CareEdge Research",
+      "replacement": "InsightEdge Research",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "https://kshinternational.com",
+      "replacement": "https://abcindustries.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Supa Facility",
+      "replacement": "Shirur Facility",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "Waterloo Industrial Park VI Private Limited",
+      "replacement": "Greenfield Industrial Park VI Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Kanchenjunga Family Trust",
+      "replacement": "Summit Family Trust",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Dhaulagiri Family Trust",
+      "replacement": "Sunrise Family Trust",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Annapurna Family Trust",
+      "replacement": "Valley View Family Trust",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Everest Family Trust",
+      "replacement": "Mountain View Family Trust",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Makalu Family Trust",
+      "replacement": "Highland Family Trust",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Broad Family Trust",
+      "replacement": "Horizon Family Trust",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Kushal Subbayya Hegde",
+      "replacement": "Vikram Suresh Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Pushpa Kushal Hegde",
+      "replacement": "Lakshmi Vikram Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Rajesh Kushal Hegde",
+      "replacement": "Arun Vikram Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Rakhi Girija Shetty",
+      "replacement": "Priya Girish Nair",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Rohit Kushal Hegde",
+      "replacement": "Sanjay Vikram Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Sandesh Bhagwat",
+      "replacement": "Ramesh Kulkarni",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Ganesh Prasad",
+      "replacement": "Sunil Kumar",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Amod Joshi",
+      "replacement": "Nikhil Desai",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Kirtane & Pandit LLP",
+      "replacement": "Sharma & Associates LLP",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Nidec Industrial Automation India Private Limited",
+      "replacement": "Servo Automation India Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "CG Power and Industrial Solutions Limited",
+      "replacement": "TechPower Industrial Solutions Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Emirates Transformer & Switchgear Limited",
+      "replacement": "Arabian Power Equipment Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Transformers & Rectifiers (India) Limited",
+      "replacement": "Voltage Equipment (India) Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Virginia Transformer Corporation",
+      "replacement": "Columbia Transformer Corporation",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Georgia Transformer Corporation",
+      "replacement": "Atlantic Transformer Corporation",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Al-Ahleia Switchgear Co.",
+      "replacement": "Gulf Electric Switchgear Co.",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Bharat Bijlee Limited",
+      "replacement": "Desh Electrical Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Savli Copper Products Private Limited",
+      "replacement": "Rajkot Copper Products Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Vedanta Limited Sterlite Copper",
+      "replacement": "Mining Corp Limited Copper Division",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Hindalco Industries Limited",
+      "replacement": "MetalCorp Industries Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Elantas Beck India Limited",
+      "replacement": "ChemCoat India Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Union Copper Rod LLC",
+      "replacement": "United Metals Rod LLC",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Ahlstrom Sweden AB",
+      "replacement": "Nordic Paper AB",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Cindus Corporation",
+      "replacement": "Pacific Materials Corporation",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Polycom Associates",
+      "replacement": "PolyTech Associates",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Unit 2 in Chakan",
+      "replacement": "Unit 2 in Talegaon",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "KSH International Chakan Internal Kamgar Sangathna",
+      "replacement": "ABC Industries Chakan Workers Union",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Supa, Ahilyanagar",
+      "replacement": "Shirur, Pune District",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "Karunakar N. Bhandary",
+      "replacement": "Ramchandra K. Sharma",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Narayna B. Shetty",
+      "replacement": "Bhaskar R. Nair",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Jayaram N. Shetty",
+      "replacement": "Govind M. Nair",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Chakan, Pune",
+      "replacement": "Talegaon, Pune",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "Waterloo Industrial Park VIII Private Limited",
+      "replacement": "Greenfield Industrial Park VIII Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Kushal Motors and Electricals Private Limited",
+      "replacement": "Vikram Motors and Electricals Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Waterloo Industrial Park III Private Limited",
+      "replacement": "Greenfield Industrial Park III Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Waterloo Industrial Park IX Private Limited",
+      "replacement": "Greenfield Industrial Park IX Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Waterloo Industrial Park IV Private Limited",
+      "replacement": "Greenfield Industrial Park IV Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Waterloo Industrial Park II Private Limited",
+      "replacement": "Greenfield Industrial Park II Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Waterloo Industrial Park V Private Limited",
+      "replacement": "Greenfield Industrial Park V Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Waterloo Industrial Park I Private Limited",
+      "replacement": "Greenfield Industrial Park I Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Waterloo Industrial Park",
+      "replacement": "Greenfield Industrial Park",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Pushpa Hegde",
+      "replacement": "Lakshmi Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Village Birdewadi",
+      "replacement": "Village Wagholi",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "91 20 45053237",
+      "replacement": "91 20 67831245",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Sarthak.malvadkar@kshinterantional.com",
+      "replacement": "pranav.deshpande@abcindustries.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "Nuvama Wealth Management Limited",
+      "replacement": "Alpha Wealth Management Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "ksh.ipo@nuvama.com",
+      "replacement": "abc.ipo@alphawealth.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 22 40094400",
+      "replacement": "+91 22 53218765",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.nuvama.com",
+      "replacement": "www.alphawealth.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "customerservice.mb@nuvama.com",
+      "replacement": "support.mb@alphawealth.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "Soumavo Sarkar",
+      "replacement": "Debashish Roy",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Lokesh Shah",
+      "replacement": "Dinesh Mehta",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "000013004",
+      "replacement": "000098765",
+      "type": "DIN",
+      "method": "dictionary"
+    },
+    {
+      "original": "ICICI Securities Limited",
+      "replacement": "Beta Securities Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "ksh@icicisecurities.com",
+      "replacement": "abc@betasecurities.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "customercare@icicisecurities.com",
+      "replacement": "support@betasecurities.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 22 6807 7100",
+      "replacement": "+91 22 7912 3456",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.icicisecurities.com",
+      "replacement": "www.betasecurities.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Kishan Rastogi",
+      "replacement": "Mohan Gupta",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Abhijit Diwan",
+      "replacement": "Rajendra Patil",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "000011179",
+      "replacement": "000087654",
+      "type": "DIN",
+      "method": "dictionary"
+    },
+    {
+      "original": "91 22 4009 4400",
+      "replacement": "91 22 5321 8765",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "prakash.boricha@nuvama.com",
+      "replacement": "suresh.mehra@alphawealth.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "sheetal.parab@nuvama.com",
+      "replacement": "anita.sharma@alphawealth.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "Prakash Boricha",
+      "replacement": "Suresh Mehra",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "000166136",
+      "replacement": "000065432",
+      "type": "DIN",
+      "method": "dictionary"
+    },
+    {
+      "original": "Trilegal",
+      "replacement": "LexCounsel",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "ipo@trilegal.com",
+      "replacement": "ipo@lexcounsel.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 22 4079 1000",
+      "replacement": "+91 22 5183 2000",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "MUFG Intime India Private Limited",
+      "replacement": "Gamma Services India Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Link Intime India Private Limited",
+      "replacement": "Gamma Services India Private Limited",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 81081 14949",
+      "replacement": "+91 93265 78123",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "kshinternational.ipo@in.mpms.mufg.com",
+      "replacement": "abcindustries.ipo@in.gammaservices.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "000004058",
+      "replacement": "000076543",
+      "type": "DIN",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.in.mpms.mufg.com",
+      "replacement": "www.in.gammaservices.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Shanti Gopalkrishnan",
+      "replacement": "Kamala Ramanathan",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "HDFC Bank",
+      "replacement": "Delta Bank",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 22 30752929",
+      "replacement": "+91 22 41863838",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 22 30752928",
+      "replacement": "+91 22 41863837",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 22 30752914",
+      "replacement": "+91 22 41863823",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "siddharth.jadhav@hdfcbank.com",
+      "replacement": "rahul.joshi@deltabank.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "sachin.gawade@hdfcbank.com",
+      "replacement": "vishal.patil@deltabank.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "eric.bacha@hdfcbank.com",
+      "replacement": "mark.thomas@deltabank.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "tushar.gavankar@hdfcbank.com",
+      "replacement": "kiran.sawant@deltabank.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "pravin.teli2@hdfcbank.com",
+      "replacement": "manoj.deshmukh@deltabank.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.hdfcbank.com",
+      "replacement": "www.deltabank.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Siddharth Jadhav",
+      "replacement": "Rahul Joshi",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Tushar Gavankar",
+      "replacement": "Kiran Sawant",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Sachin Gawade",
+      "replacement": "Vishal Patil",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Pravin Teli",
+      "replacement": "Manoj Deshmukh",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Eric Bacha",
+      "replacement": "Mark Thomas",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "ICICI Bank",
+      "replacement": "Beta Bank",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai",
+      "replacement": "245, 7th Floor, Nariman Point Road, Marine Lines, Mumbai",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "Ipocmg@icicibank.com",
+      "replacement": "ipocmg@betabank.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "022-68052182",
+      "replacement": "022-79163293",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.icicibank.com",
+      "replacement": "www.betabank.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Varun Badai",
+      "replacement": "Amit Saxena",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Kirtane & Pandit",
+      "replacement": "Sharma & Associates",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "parag.pansare@kirtanepandit.com",
+      "replacement": "makarand.godbole@sharmaassociates.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "105215W/ W100057",
+      "replacement": "112345E/ E200098",
+      "type": "REGISTRATION_NUMBER",
+      "method": "dictionary"
+    },
+    {
+      "original": "014680",
+      "replacement": "025791",
+      "type": "REGISTRATION_NUMBER",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 20 6606 4494",
+      "replacement": "+91 20 7712 5505",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Hitesh Ramani",
+      "replacement": "Paresh Vyas",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "hitesh.ramani@citi.com",
+      "replacement": "paresh.vyas@standardchartered.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "Export-Import Bank of India",
+      "replacement": "International Trade Bank of India",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "pro@eximbankindia.in",
+      "replacement": "info@tradebankindia.in",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 20 2640 3100",
+      "replacement": "+91 20 3751 4200",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.eximbankindia.in",
+      "replacement": "www.tradebankindia.in",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Chitra Raste",
+      "replacement": "Sneha Gokhale",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "IndusInd Bank",
+      "replacement": "Epsilon Bank",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "sharmila.joshi@indusind.com",
+      "replacement": "swati.kulkarni@epsilonbank.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91-20-26234000",
+      "replacement": "+91-20-37454111",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.indusind.com",
+      "replacement": "www.epsilonbank.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Sharmila Joshi",
+      "replacement": "Swati Kulkarni",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "cherag.gyara@icicibank.com",
+      "replacement": "faisal.qureshi@betabank.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "+ 91 8879770456",
+      "replacement": "+ 91 9923456789",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Cherag Gyara",
+      "replacement": "Faisal Qureshi",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 20 6769 4648",
+      "replacement": "+91 20 7873 5759",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Manisha Shukla",
+      "replacement": "Deepa Mishra",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "manisha.shukla@hdfcbank.com",
+      "replacement": "deepa.mishra@deltabank.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "State Bank of India",
+      "replacement": "National Bank of India",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 20 2561 8211",
+      "replacement": "+91 20 3672 9322",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "rm6.ifbpune@sbi.co.in",
+      "replacement": "rm9.ifbpune@nationalbank.co.in",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "Federal Bank",
+      "replacement": "Zeta Bank",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "91 91586 40360",
+      "replacement": "91 98765 43210",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Ashish",
+      "replacement": "Nitin",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "ashishmp@federalbank.co.in",
+      "replacement": "nitinrk@zetabank.co.in",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "Bajaj Finance",
+      "replacement": "Omega Finance",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "anand.soni@bajajfinserv.in",
+      "replacement": "vijay.sharma@omegafinserv.in",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 20 7157 6403",
+      "replacement": "+91 20 8268 7514",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.bajajfinance.com",
+      "replacement": "www.omegafinance.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Anand Soni",
+      "replacement": "Vijay Sharma",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "www.kshinternational. com",
+      "replacement": "www.abcindustries.com",
+      "type": "WEBSITE",
+      "method": "dictionary"
+    },
+    {
+      "original": "KANCHENJUNGA FAMILY TRUST",
+      "replacement": "SUMMIT FAMILY TRUST",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "DHAULAGIRI FAMILY TRUST",
+      "replacement": "SUNRISE FAMILY TRUST",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "ANNAPURNA FAMILY TRUST",
+      "replacement": "VALLEY VIEW FAMILY TRUST",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "EVEREST FAMILY TRUST",
+      "replacement": "MOUNTAIN VIEW FAMILY TRUST",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "MAKALU FAMILY TRUST",
+      "replacement": "HIGHLAND FAMILY TRUST",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "BROAD FAMILY TRUST",
+      "replacement": "HORIZON FAMILY TRUST",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "KUSHAL SUBBAYYA HEGDE",
+      "replacement": "VIKRAM SURESH MENON",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "PUSHPA KUSHAL HEGDE",
+      "replacement": "LAKSHMI VIKRAM MENON",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "RAJESH KUSHAL HEGDE",
+      "replacement": "ARUN VIKRAM MENON",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "RAKHI GIRIJA SHETTY",
+      "replacement": "PRIYA GIRISH NAIR",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "ROHIT KUSHAL HEGDE",
+      "replacement": "SANJAY VIKRAM MENON",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED",
+      "replacement": "GREENFIELD INDUSTRIAL PARK VI PRIVATE LIMITED",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "+91 22 4009 4400",
+      "replacement": "+91 22 5321 8765",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "801 - 804, Wing A, Building No 3, Inspire BKC, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051",
+      "replacement": "901 - 905, Wing B, Building No 7, Phoenix BKC, E Block, Bandra Kurla Complex, Bandra East, Mumbai 400098",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "ICICI Venture House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400025",
+      "replacement": "Tower A, Trade Center, Senapati Bapat Marg, Dadar West, Mumbai 400028",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "C-101, Embassy 247, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400083",
+      "replacement": "D-201, Phoenix Tower, 2nd Floor, Western Express Highway, Goregaon (East), Mumbai 400063",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "Sangeeta Branch",
+      "replacement": "Meena Branch",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Rajesh Branch",
+      "replacement": "Arun Branch",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Rakhi Branch",
+      "replacement": "Priya Branch",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Rohit Branch",
+      "replacement": "Sanjay Branch",
+      "type": "COMPANY",
+      "method": "dictionary"
+    },
+    {
+      "original": "Rajesh Hegde",
+      "replacement": "Arun Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Subbayya Hegde",
+      "replacement": "Suresh Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Kushal Hegde",
+      "replacement": "Vikram Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Nagayya Shetty",
+      "replacement": "Govind Nair",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "DM Shetty",
+      "replacement": "RM Nair",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Gopal BO",
+      "replacement": "Mohan RK",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Karunakar Bhandary",
+      "replacement": "Ramchandra Sharma",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "SA Shetty",
+      "replacement": "KP Nair",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Jayaram Shetty",
+      "replacement": "Govind Nair",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Karunakar Hegde",
+      "replacement": "Ramchandra Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Narayana B. Shetty",
+      "replacement": "Bhaskar R. Nair",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Rohit Hegde",
+      "replacement": "Sanjay Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "Vijay Hegde",
+      "replacement": "Ajay Menon",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "5th Floor, Gopal House",
+      "replacement": "3rd Floor, Shivaji House",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "Opposite Harshal Hall, above HDFC Limited Karve Road, Pune",
+      "replacement": "Near Fergusson College, above SBI, Law Road, Pune",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "91 20 6729 5100",
+      "replacement": "91 20 7834 6200",
+      "type": "PHONE",
+      "method": "dictionary"
+    },
+    {
+      "original": "Flat No. 102, Sai Complex Shaniwar Peth, Pune",
+      "replacement": "Office No. 205, Om Complex Sadashiv Peth, Pune",
+      "type": "ADDRESS",
+      "method": "dictionary"
+    },
+    {
+      "original": "Hingne Tare",
+      "replacement": "Kulkarni Joshi",
+      "type": "PERSON_NAME",
+      "method": "dictionary"
+    },
+    {
+      "original": "hingnetare@gmail.com",
+      "replacement": "kulkarnijoshi@gmail.com",
+      "type": "EMAIL",
+      "method": "dictionary"
+    },
+    {
+      "original": "116417W",
+      "replacement": "223456E",
+      "type": "REGISTRATION_NUMBER",
+      "method": "dictionary"
+    }
+  ]
+}
